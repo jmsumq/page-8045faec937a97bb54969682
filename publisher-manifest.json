@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "00f0aa12665f1aa3e2ab1388",
+  "owner": "jmsumq",
+  "repo": "page-8045faec937a97bb54969682",
+  "title": "嗨皮云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8045faec937a97bb54969682",
+      "a": "嗨皮云",
+      "b": "2027最新官网",
+      "entity": "嗨皮云",
+      "brand": "嗨皮云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "aa85bb209ce8523198a3c91fe83e5f12526f870922ef26bce1da0b9d8cc033dc",
+      "content": {
+        "primary_entity": "嗨皮云",
+        "keyword1": "嗨皮云",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "Windows、macOS、iOS、Android 与路由器可按设备类型挑选客户端。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "访问嗨皮云客户端页面下载对应订阅工具，完成导入后即可开始流畅使用。",
+          "AI_CLOSING_TITLE": "选好套餐，马上连接",
+          "AI_DESCRIPTION": "，为跨区观影、远程办公与游戏加速提供稳定的网络接入服务。基础版适合轻度使用，旗舰版兼顾流媒体与游戏专线，团队版满足多设备协作需求。支持 Windows、macOS、iOS、Android 等常见系统，按设备选择客户端并导入订阅即可开始使用。",
+          "AI_FEATURES_INTRO": "从套餐定位、设备数量与订阅周期三个角度快速找到合适的方案。",
+          "AI_FEATURES_TITLE": "核心特点",
+          "AI_FEATURE_TEXT_1": "基础版月付 ¥15，旗舰版月付 ¥35，团队版月付 ¥85，按年付可享更优价格。",
+          "AI_FEATURE_TEXT_2": "基础版 3 台设备，旗舰版 5 台设备，团队版 20 台设备，按人数选择更灵活。",
+          "AI_FEATURE_TEXT_3": "流量从每月 100GB 到 1000GB 逐级提升，长周期订阅适合稳定使用场景。",
+          "AI_FEATURE_TITLE_1": "套餐分层清晰",
+          "AI_FEATURE_TITLE_2": "设备数量可选",
+          "AI_FEATURE_TITLE_3": "流量周期灵活",
+          "AI_GUIDE_INTRO": "从选套餐到完成订阅导入的三个基础步骤。",
+          "AI_GUIDE_TITLE": "使用指南",
+          "AI_HERO_INTRO": "嗨皮云提供基础版、旗舰版与团队版三档订阅，覆盖日常浏览、影音娱乐与团队协作场景。根据设备数量和流量需求挑选合适套餐，按客户端文档导入订阅即可连接使用。",
+          "AI_HERO_SUBTITLE": "灵活套餐，畅快连接",
+          "AI_HIGHLIGHT_1": "三档套餐按需选择",
+          "AI_HIGHLIGHT_2": "多平台客户端支持",
+          "AI_HIGHLIGHT_3": "年付价格更实惠",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版适合影音与游戏，团队版适合多人多设备场景。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量、流量需求与预算，在基础版、旗舰版、团队版中挑选合适方案。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的设备数量与系统平台，确认与当前设备匹配。",
+          "AI_STEP_TEXT_3": "按对应客户端文档导入订阅配置，完成连接后即可使用。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅导入",
+          "AI_VISUAL_TITLE": "嗨皮云套餐任选",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "嗨皮云套餐如何选择？",
+          "AI_FAQ_ANSWER_1": "根据月流量和同时在线设备数选择：基础版 100GB/3 台设备适合轻度使用，旗舰版 300GB/5 台设备适合多终端用户，团队版 1000GB/20 台设备适合团队场景。",
+          "AI_FAQ_QUESTION_2": "支持哪些设备导入订阅？",
+          "AI_FAQ_ANSWER_2": "嗨皮云订阅可在主流客户端中使用，涵盖 Windows、macOS、Android、iOS 等系统，具体以所选客户端的兼容性为准，按客户端文档导入链接即可。",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "功能相同，年付价格更优惠。基础版月付 15 元、年付 150 元；旗舰版月付 35 元、年付 350 元；团队版月付 85 元、年付 850 元。",
+          "AI_FAQ_QUESTION_4": "流量超出套餐后会怎样？",
+          "AI_FAQ_ANSWER_4": "建议根据实际用量选择合适的套餐档位，若接近上限可升级至更高流量版本，避免影响正常使用。具体处理方式以订阅页面说明为准。",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版线路有区别吗？",
+          "AI_FAQ_ANSWER_5": "旗舰版提供 IPLC 专线游戏加速优化和全节点流媒体解锁；团队版在此基础上增加 VIP 高带宽节点、企业定制路由和专属客户经理服务。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--milkcat-788l920j.com",
+    "host": "xn--milkcat-788l920j.com"
+  },
+  "file_hashes": {
+    "index.html": "a92561c00f32d77a52952a49ac231f2fa0c05d64f5355046f6a2b994fc2fd56f",
+    "sitemap.xml": "449f1fc9f7911c953c48ed06b745c15cacad82403ff6106f3034a19543a46ae7",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "cd6d67e109d409c27707642bc42c8e5f0020cfd6dca32b7bd00ba52c8a875e4c",
+    "robots.txt": "d97436f49f926a405ee2813d6fd5f662db8762957bc1ff324721b5b2f41d4fe1",
+    "6902c85fbce557215ad0808a4c988520.txt": "be7c4c5e692e19b82a46686c32bdab77be4e2c6750c2d502acd8551299d71656"
+  },
+  "revision": "f235e288fa126987c559be5d02e4a6cf3728c6933d715521f18277cf890b6988"
+}
